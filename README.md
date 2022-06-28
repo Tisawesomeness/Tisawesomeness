@@ -6,7 +6,7 @@ I'm **Tis**, a developer and college student from North Carolina.
 - :telescope: Interning at Cisco working on Software Bill of Materials (SBOM)
 - :seedling: Looking to learn Kotlin and Rust
 - :sparkles: Interested in cybersecurity, robotics, and computer vision
-- :night_with_stars: Check out [my portfolio](https://tis.codes)
+- :night_with_stars: Check out [my website](https://tis.codes)
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,cpp,regex,sqlite,mysql,gradle,git,github,idea,neovim,vscode,flask,latex,linux,raspberrypi,bash,nginx,aws,cloudflare,discord,bots&perline=13)](https://skillicons.dev)
 
