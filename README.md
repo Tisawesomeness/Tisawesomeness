@@ -1,16 +1,21 @@
-### Hi there 👋
+## :wave: Hello!
 
-<!--
-**Tisawesomeness/Tisawesomeness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tis**, a developer and college student from North Carolina.
 
-Here are some ideas to get you started:
+- :mortar_board: Studying Computer Science
+- :telescope: Interning at Cisco working on Software Bill of Materials (SBOM)
+- :seedling: Looking to learn Kotlin and Rust
+- :sparkles: Interested in cybersecurity, robotics, and computer vision
+- :night_with_stars: Check out [my portfolio](https://tis.codes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,cpp,regex,sqlite,mysql,gradle,git,github,idea,neovim,vscode,flask,latex,linux,raspberrypi,bash,nginx,aws,cloudflare,discord,bots&perline=13)](https://skillicons.dev)
+
+## :computer: Stats
+
+[![Tis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tisawesomeness&show_icons=true&layout=compact&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tis' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tisawesomeness&show_icons=true&layout=compact&theme=vue-dark&count_private=true)
+
+## :mailbox: Contact
+
+- :speech_balloon: Discord - `Tis_awesomeness#8617` or the [Minecord support server](https://minecord.github.io/invite)
+- :incoming_envelope: Email - [tis_dev@proton.me](mailto:tis_dev@proton.me)
