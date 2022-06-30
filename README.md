@@ -4,6 +4,7 @@ I'm **Tis**, a developer and college student from North Carolina.
 
 - :mortar_board: Studying Computer Science
 - :telescope: Interning at Cisco working on Software Bill of Materials (SBOM)
+- :robot: FRC alumni
 - :seedling: Looking to learn Kotlin and Rust
 - :sparkles: Interested in cybersecurity, robotics, and computer vision
 - :night_with_stars: Check out [my website](https://tis.codes)
