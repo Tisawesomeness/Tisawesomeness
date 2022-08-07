@@ -3,13 +3,12 @@
 I'm **Tis**, a developer and college student from North Carolina.
 
 - :mortar_board: Studying Computer Science
-- :telescope: Interning at Cisco working on Software Bill of Materials (SBOM)
-- :robot: FRC alumni
+- :robot: [FRC](https://www.firstinspires.org/robotics/frc) alumni
 - :seedling: Looking to learn Kotlin and Rust
 - :sparkles: Interested in cybersecurity, robotics, and computer vision
 - :night_with_stars: Check out [my website](https://tis.codes)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,cpp,regex,sqlite,mysql,gradle,git,github,idea,neovim,vscode,flask,latex,linux,raspberrypi,bash,nginx,aws,cloudflare,discord,bots&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,regex,sqlite,gradle,git,idea,neovim,linux,raspberrypi,discord,bots)](https://skillicons.dev)
 
 ## :computer: Stats
 
