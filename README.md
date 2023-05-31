@@ -1,14 +1,13 @@
 ## :wave: Hello!
 
-I'm **Tis**, a developer and college student from North Carolina.
+I'm **Tis**, a software engineer from North Carolina.
 
-- :mortar_board: Studying Computer Science
 - :robot: [FRC](https://www.firstinspires.org/robotics/frc) alumni
-- :seedling: Looking to learn Kotlin and Rust
+- :seedling: Looking to learn Kotlin
 - :sparkles: Interested in cybersecurity, robotics, and computer vision
 - :night_with_stars: Check out [my website](https://tis.codes)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,regex,sqlite,gradle,git,idea,neovim,linux,raspberrypi,discord,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,rust,regex,sqlite,gradle,git,idea,neovim,linux,raspberrypi,discord,bots)](https://skillicons.dev)
 
 ## :computer: Stats
 
