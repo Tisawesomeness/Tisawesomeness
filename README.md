@@ -16,5 +16,5 @@ I'm **Tis**, a software engineer from North Carolina.
 
 ## :mailbox: Contact
 
-- :speech_balloon: Discord - `Tis_awesomeness#8617` or the [Minecord support server](https://minecord.github.io/invite)
+- :speech_balloon: Discord - `@tis_awesomeness` or the [Minecord support server](https://minecord.github.io/invite)
 - :incoming_envelope: Email - [tis_dev@proton.me](mailto:tis_dev@proton.me)
